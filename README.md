@@ -154,7 +154,7 @@ SELECT
     COUNT(*) as total_orders    
 FROM hourly_sale
 GROUP BY shift
-
+```
 
 ## Findings
 
