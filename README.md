@@ -158,7 +158,7 @@ GROUP BY shift
 
 ## Findings
 
-- ** The above queries can help:
+- The above queries can help:
 - Identify top categories for revenue and popularity.
 - Recognize high-value and loyal customers.
 - Leverage seasonal and hourly trends for operational efficiency.
@@ -173,5 +173,6 @@ Beauty products attract an age 40 demographic equally across genders,
 ## Conclusion
 
 The findings from this project can help drive business decisions by understanding sales patterns, customer behavior, and product performance.
+
 
 
